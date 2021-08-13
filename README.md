@@ -6,7 +6,8 @@
 
 ### Happy to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=zakariyamehmud) 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250" height="250" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" height="300" />
+
 
 - :man_technologist: I am a budding Software Engineer. 
 - 🔭 I’m currently a Computer Science student at Metroplitan State Univeristy.  Go ahead & check out my repos! :octocat:
